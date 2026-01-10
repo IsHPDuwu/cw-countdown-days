@@ -1,0 +1,12 @@
+{
+  "id": "com.rinlit.countdowndays",
+  "name": "Countdown Days",
+  "version": "1.0.0",
+  "api_version": "~=0.3.0",
+  "entry": "main.py",
+  "author": "RinLit",
+  "description": "西大不丢 2 (Class Widgets 2) 倒计日插件/ Countdown Days Plugin",
+  "url": "https://github.com/RinLit-233-shiroko/cw-countdown-days",
+  "readme": "README.md",
+  "icon": "icon.png"
+}
