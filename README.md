@@ -3,9 +3,9 @@
 <h1>倒数日插件 / Countdown Days</h1>
 
 
-[![星标](https://img.shields.io/github/stars/repo-owner/repo-name?style=for-the-badge&color=orange&label=星标)](https://github.com/repo-owner/repo-name)
-[![开源许可](https://img.shields.io/badge/license-MIT-darkgreen.svg?label=开源许可证&style=for-the-badge)](https://github.com/repo-owner/repo-name)
-[![下载量](https://img.shields.io/github/downloads/repo-owner/repo-name/total.svg?label=下载量&color=green&style=for-the-badge)](https://github.com/repo-owner/repo-name)
+[![星标](https://img.shields.io/github/stars/RinLit-233-shiroko/cw-countdown-days?style=for-the-badge&color=orange&label=星标)](https://github.com/RinLit-233-shiroko/cw-countdown-days)
+[![开源许可](https://img.shields.io/badge/license-MIT-darkgreen.svg?label=开源许可证&style=for-the-badge)](https://github.com/RinLit-233-shiroko/cw-countdown-days)
+[![下载量](https://img.shields.io/github/downloads/RinLit-233-shiroko/cw-countdown-days/total.svg?label=下载量&color=green&style=for-the-badge)](https://github.com/RinLit-233-shiroko/cw-countdown-days)
 
 </div>
 
